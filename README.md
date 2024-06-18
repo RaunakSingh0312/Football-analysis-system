@@ -19,12 +19,6 @@ We will determine the velocity of players and the overall distance they traverse
 ### 5. Practical Relevance: 
 This project tackles real-world issues in sports analytics, making it applicable to both academic research and practical uses in sports administration and coaching.
 
-## Trained Models
-- [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
-
-## Sample video
--  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
-
 ## Requirements
 To run this project, you need to have the following requirements installed:
 - Python 3.x
